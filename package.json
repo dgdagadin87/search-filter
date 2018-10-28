@@ -40,6 +40,7 @@
     "scanex-slider-widget": "git+https://github.com/Scanex/SliderWidget.git",
     "scanex-tristate": "git+https://github.com/Scanex/TristateCheckbox.git",
     "scanex-datagrid": "git+https://github.com/Scanex/DataGrid.git",
+    "scanex-translations": "git+https://github.com/Scanex/Translations.git",
     "pikaday": "^1.7.0"
   }
 }
